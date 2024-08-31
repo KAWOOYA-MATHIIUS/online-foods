@@ -684,7 +684,7 @@ header .icons #menu-bars{
 
 }
 
-@media (max-width:430px){
+@media (max-width:450px){
 
     html{
         font-size: 50%;
@@ -692,11 +692,11 @@ header .icons #menu-bars{
 
     .dishes .box-container .box img{
         height:auto;
-        width: 90%;
+        width: 100%;
     }
 
     .order form .inputBox .input{
-        width:90%;
+        width:100%;
     }
 
 }
